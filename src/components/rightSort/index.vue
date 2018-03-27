@@ -88,7 +88,7 @@ img {
     color: #ffffff;
     margin: 0px 20px 0px;
     font-family: PingFangSC;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
     opacity: 0.5;
   }
